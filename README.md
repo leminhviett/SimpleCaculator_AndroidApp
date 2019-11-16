@@ -6,3 +6,5 @@ This is how it looks like
 
 ![alt text](https://github.com/leminhviett/SimpleCalculator_AndroidApp/blob/master/screenshot.jpg =20x50)
 
+<img src="(https://github.com/leminhviett/SimpleCalculator_AndroidApp/blob/master/screenshot.jpg" alt="drawing" height="50"/>
+
